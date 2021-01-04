@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jishnuks91/avooo/_apis/build/status/jishnuks91.pipelines-java?branchName=master)](https://dev.azure.com/jishnuks91/avooo/_build/latest?definitionId=2&branchName=master)
 [![Build Status](https://dev.azure.com/jishnuks91/kioll/_apis/build/status/jishnuks91.pipelines-java?branchName=master)](https://dev.azure.com/jishnuks91/kioll/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
